@@ -16,3 +16,9 @@ As normal there are shell scripts for building on Windows and Mac OSX. Windows r
 Running
 -----------------------
 This version of the X QVM can be run without use of customized dedicated server code, so most any tremulous server will work.
+
+Contributing
+-----------------------
+If you wish to contribute, please fork the branch you wish to work on, make your changes, and submit a pull request for review.
+
+Also, please report all bugs you encounter!
