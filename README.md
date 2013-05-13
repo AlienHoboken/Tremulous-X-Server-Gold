@@ -1,4 +1,18 @@
 Tremulous-X-Server-Gold
 =======================
 
-Golden edition of the X server gameplay mod for the game Tremulous.
+This repository contains the code for the golden edition of the X server gameplay mod.
+
+This version of the mod was decommissioned in 2011 after years of active use, with many of its changes persisting in the next iteration of the mod.
+
+Building
+=======================
+This version of the X gameplay mod is built normally.
+
+Make sure that the `MAKE_GAME_QVM` flag is set in the Makefile before building.
+
+As normal there are shell scripts for building on Windows and Mac OSX. Windows requires MingW be used.
+
+Running
+=======================
+This version of the X QVM can be run without use of customized dedicated server code, so most any tremulous server will work.
